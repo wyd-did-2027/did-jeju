@@ -27,10 +27,10 @@ export const content = {
     footer: {
       logoAlt: "wyd did 제주 로고",
       address:
-        "제주특별자치도 제주시 관덕로8길 14 WYD 제주 교구대회 사무국",
-      email: "qna.wyd.doc.icn@gmail.com",
-      phone: "032-765-6997",
-      hours: "운영시간: 10:00 ~ 18:00",
+        "제주시 관덕로 8길 14 1층 청소년사목국",
+      email: "jjchayouth@naver.com",
+      phone: "064-729-9507",
+      hours: "운영시간: 월~금 09:00~18:00 (점심시간 : 12:00~13:30)",
       copyright: "Copyright ⓒ 제주교구 All rights reserved",
     },
     slider: {
@@ -85,10 +85,10 @@ export const content = {
     footer: {
       logoAlt: "wyd did Jeju logo",
       address:
-        "14, Gwandeok-ro 8-gil, Jeju-si, Jeju-do, WYD Jeju Diocesan Committee",
-      email: "qna.wyd.doc.icn@gmail.com",
-      phone: "032-765-6997",
-      hours: "Hours: 10:00 ~ 18:00",
+        "14, Gwandeok-ro 8-gil, Jeju-si, 1F Youth Pastoral Office",
+      email: "jjchayouth@naver.com",
+      phone: "064-729-9507",
+      hours: "Hours: Mon-Fri 09:00~18:00 (Lunch 12:00~13:30)",
       copyright: "Copyright ⓒ Diocese of Jeju All rights reserved",
     },
     slider: {
