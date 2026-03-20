@@ -4,19 +4,19 @@ const R2_URL = process.env.NEXT_PUBLIC_R2_PUBLIC_URL;
 
 export default function SliderItem01() {
   return (
-    <div className="relative w-full h-full bg-[#FFBABA]">
+    <div className="relative w-full h-full">
       <Image
-        src={`${R2_URL}/main01m.png`}
-        alt="인천교구 wyd 설명회"
+        src={`${R2_URL}/jeju/mk_2.png`}
+        alt="제주2"
         fill
-        className="object-contain md:hidden"
+        className="min-[900px]:hidden block"
         priority
       />
       <Image
-        src={`${R2_URL}/main01.png`}
-        alt="인천교구 wyd 설명회"
+        src={`${R2_URL}/jeju/pk_2.png`}
+        alt="제주2"
         fill
-        className="object-contain hidden md:block"
+        className="object-fill hidden min-[900px]:block"
         priority
       />
     </div>
