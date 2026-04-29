@@ -20,7 +20,7 @@ export const content = {
       ogLocale: "ko_KR",
     },
     header: {
-      logoAlt: "wyd did 제주 로고",
+      logoAlt: "wyd did 제주",
       nav: {
         home: "홈",
         calendar: "캘린더",
@@ -31,7 +31,7 @@ export const content = {
       },
     },
     footer: {
-      logoAlt: "wyd did 제주 로고",
+      logoAlt: "wyd did 제주",
       address:
         "제주시 관덕로 8길 14 1층 청소년사목국",
       email: "jjchayouth@naver.com",
@@ -78,7 +78,7 @@ export const content = {
       ogLocale: "en_US",
     },
     header: {
-      logoAlt: "wyd did Jeju logo",
+      logoAlt: "wyd did Jeju",
       nav: {
         home: "Home",
         calendar: "Calendar",
@@ -89,7 +89,7 @@ export const content = {
       },
     },
     footer: {
-      logoAlt: "wyd did Jeju logo",
+      logoAlt: "wyd did Jeju",
       address:
         "14, Gwandeok-ro 8-gil, Jeju-si, 1F Youth Pastoral Office",
       email: "jjchayouth@naver.com",
